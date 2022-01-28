@@ -11,19 +11,22 @@ h1
 {
     color: orange;
 }
-section
+.section
 {
     display: flex;
+    margin-bottom: 150px;
 }
 .half-width
 {
     width: 50%;
     padding-left: 5%;
+    
 }
 .half-width img
 {
     width: 80%;
-    border-radius: 500px;
+    
+   
 }
 .link
 {
@@ -38,4 +41,53 @@ section
 {
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.half-width img
+{
+    width: 80%;
+
+   
+
+}
+.half-width
+{
+    width: 50%;
+    padding-left: 5%;
+    
+}
+.shanta
+{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+.dream
+{
+padding-block-end: 5%;
+}
+
+.font-color
+{
+    color: orange;
+}
+
+h2
+{
+ font-size: 40px;
+}
+.experince area
+{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+
+.half-width-new
+{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    box-shadow: 10px 10px 40px gray;
+    
 }
